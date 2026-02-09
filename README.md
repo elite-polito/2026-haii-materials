@@ -2,6 +2,8 @@
 
 Material for the _[Human-AI Interaction](https://elite.polito.it/haii)_ (HAII) course for the Ph.D. in Computer and Control Engineering at Politecnico di Torino, Italy.
 
+Teachers: Luigi De Russis and Tommaso Calò
+
 ## Slides
 
 * [Introduction and Fundamentals](./slides/01-intro.pdf)
